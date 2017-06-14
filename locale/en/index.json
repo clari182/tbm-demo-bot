@@ -1,0 +1,28 @@
+{
+    "Hello!": [
+        "Hello!",
+        "Hey",
+        "Hi, how are you?"
+    ],
+    "Hahaha!": [
+        "Hahaha!",
+        "Ha!",
+        "😀"
+    ],
+    "At your service 😙": [
+        "At your service",
+        "Hope to seeyou again 🤗",
+        "👋",
+        "Bye %s, talk to you soon!"
+    ],
+    "Sorry, I didn't get that": [
+        "Sorry, I didn't get that",
+        "I'm sorry I didn't understand, can you try again?",
+        "I'm not sure what you meant, can you please try again?",
+        "I didn't quite get that, please rephrase."
+    ],
+    "You are welcome!": [
+        "You are welcome!",
+        "Glad I could help :)"
+    ]
+}
